@@ -16,7 +16,14 @@ const cosmos = [
 module.exports = {
   title: "Frederox",
   description: "",
+
   themeConfig: {
+    repo: "frederoxGit/frederox.com",
+    docsDir: "docs",
+
+    editLinks: true,
+    editLinkText: "Edit this page on GitHub",
+
     nav: [
       { text: "Cosmos", link: "/cosmos/" },
       { text: "Biodiversity", link: "/biodiversity/" },
