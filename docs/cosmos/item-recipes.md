@@ -32,11 +32,13 @@ To forge a metal sheet you will need: A Deepslate Basin, a flint & Steel, and an
 ## Diamond Drill
 
 The Diamond drill is an essential tool for going to space. It is required to mine blocks in space.
+
 ![Diamond Drill](./recipes/space_boots.png)
 
 ## Empty Fuel Tank
 
 The Empty fuel tank is an ingredient for fuel
+
 ![Empty Fuel Tank](./recipes/empty_fuel.png)
 
 ## Fuel Tank
