@@ -5,12 +5,22 @@ const biodiversity = [
 ];
 
 const cosmos = [
-  { text: "Getting Started", link: "/cosmos/" },
-  { text: "Block Recipes", link: "/cosmos/block-recipes" },
-  { text: "Item Recipes", link: "/cosmos/item-recipes" },
-  { text: "Rocket Recipes", link: "/cosmos/rocket-recipes" },
-  { text: "The Moon", link: "/cosmos/moon" },
-  { text: "Mars", link: "/cosmos/mars" },
+  {
+    text: "Documentation",
+    children: [
+      { text: "Getting Started", link: "/cosmos/" },
+      { text: "Block Recipes", link: "/cosmos/block-recipes" },
+      { text: "Item Recipes", link: "/cosmos/item-recipes" },
+      { text: "Rocket Recipes", link: "/cosmos/rocket-recipes" },
+    ],
+  },
+  {
+    text: "Guides",
+    children: [
+      { text: "The Moon", link: "/cosmos/moon" },
+      { text: "Mars", link: "/cosmos/mars" },
+    ],
+  },
 ];
 
 module.exports = {
