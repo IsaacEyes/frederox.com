@@ -1,8 +1,5 @@
 ---
-description: ""
-sidebar: "biodiversity"
-next: ""
-prev: ""
+editLink: true
 ---
 
 # Getting Started

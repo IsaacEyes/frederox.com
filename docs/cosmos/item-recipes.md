@@ -1,3 +1,7 @@
+---
+editLink: true
+---
+
 # Item Recipes
 
 ## Metal Sheet

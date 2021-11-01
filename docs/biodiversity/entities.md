@@ -1,8 +1,5 @@
 ---
-description: ""
-sidebar: "biodiversity"
-next: ""
-prev: ""
+editLink: true
 ---
 
 # Entities

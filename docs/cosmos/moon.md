@@ -1,3 +1,7 @@
+---
+editLink: true
+---
+
 # Going to the Moon
 
 ![The Moon](./guides/moon.png)

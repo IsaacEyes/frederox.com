@@ -1,5 +1,5 @@
 ---
-editLink: "http://localhost:3000"
+editLink: true
 ---
 
 # Getting Started

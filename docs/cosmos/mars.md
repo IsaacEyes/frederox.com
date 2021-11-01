@@ -1,3 +1,7 @@
+---
+editLink: true
+---
+
 # Going to Mars
 
 ![Mars](./guides/mars.png)

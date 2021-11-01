@@ -1,3 +1,7 @@
+---
+editLink: true
+---
+
 # Block Recipes
 
 ## Deepslate Basin

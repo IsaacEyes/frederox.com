@@ -1,8 +1,5 @@
 ---
-description: ""
-sidebar: "cosmos"
-next: ""
-prev: ""
+editLink: true
 ---
 
 # Rocket Recipes
