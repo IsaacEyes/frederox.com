@@ -17,8 +17,8 @@ const cosmos = [
   {
     text: "Guides",
     children: [
-      { text: "The Moon", link: "/cosmos/moon" },
-      { text: "Mars", link: "/cosmos/mars" },
+      { text: "Going to the Moon", link: "/cosmos/moon" },
+      { text: "Going to Mars", link: "/cosmos/mars" },
     ],
   },
 ];
