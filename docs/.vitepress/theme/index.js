@@ -1,2 +1,2 @@
-import Theme from './index.css'
+import Theme from './index.css' 
 export default Theme
