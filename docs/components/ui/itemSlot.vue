@@ -1,7 +1,7 @@
 <template>
   <img
     v-if="item"
-    :src="withBase(`/assets/items/${item}.png`)"
+    :src="withBase(`../../assets/items/${item}.png`)"
     :style="`padding: 5px; width: 75px; background: url(${withBase(
       '/assets/common/slot.png'
     )}); background-size: cover; background-repeat: no-repeat; center;`"
