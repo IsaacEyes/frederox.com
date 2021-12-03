@@ -1,26 +1,17 @@
 ---
-editLink: true
+home: true
+heroImage: /cosmos/cosmos-banner.png
+heroAlt: Cosmos Banner
+heroText: Cosmos
+tagline: Explore distant planets
+actionText: Get Started
+actionLink: /cosmos/setup
+features:
+  - title: 🌙 New Planets
+    details: Cosmos adds in two more planets which are the Moon and Mars
+  - title: 💎 New Materials
+    details: Cosmos adds in new materials which are used to create tools as well as rockets
+  - title: 🚀 New Experience
+    details: Cosmos gives the player a completely new experience to minecraft bedrock
+footer: MIT Licensed | Copyright © 2021-Present Frederox
 ---
-
-# Getting Started
-
-![The cosmos banner](./cosmos-banner.png)
-
-Cosmos is an open world space addon, you can explore distant planets such as the Moon and Mars.
-
-## Download
-
-Cosmos can be downloaded on the [github release page!](https://github.com/FrederoxGit/Cosmos/releases/) After you have downloaded Cosmos please make sure to follow the setup guide.
-
-## Setup Guide
-
-To get started activate the pack onto your world and go to the experimental toggles and activate:
-
-> 1. Holiday Creator Features
-> 2. Creation of Custom Biomes
-> 3. Additional Modding Capabilities
-
-Now load up your world, and run two commands
-
-> 1. /function start
-> 2. /function finish

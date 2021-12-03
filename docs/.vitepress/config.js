@@ -7,19 +7,15 @@ const biodiversity = [
 const cosmos = [
   {
     text: "Documentation",
-    children: [
-      { text: "Getting Started", link: "/cosmos/" },
-      { text: "Block Recipes", link: "/cosmos/block-recipes" },
-      { text: "Item Recipes", link: "/cosmos/item-recipes" },
-      { text: "Rocket Recipes", link: "/cosmos/rocket-recipes" },
-    ],
+    children: [{ text: "Getting Started", link: "/cosmos/setup" }],
   },
   {
-    text: "Guides",
-    children: [
-      { text: "Going to the Moon", link: "/cosmos/moon" },
-      { text: "Going to Mars", link: "/cosmos/mars" },
-    ],
+    text: "Tests",
+    children: [{ text: "Crafting UI", link: "/cosmos/tests/crafting" }],
+  },
+  {
+    text: "Items",
+    children: [{ text: "Titanium Ore", link: "/cosmos/items/titanium" }],
   },
 ];
 
