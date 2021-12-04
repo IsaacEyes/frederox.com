@@ -1,10 +1,8 @@
 <template>
   <img
     v-if="item"
-    :src="withBase(`/assets/items/${item}.png`)"
-    :style="`padding: 5px; width: 75px; background: url(${withBase(
-      '/assets/common/slot.png'
-    )}); background-size: cover; background-repeat: no-repeat; center;`"
+    :src="withBase(`/items/${item}.png`)"
+    :style="`padding: 5px; width: 75px; background: url(${withBase('/slot.png')}); background-size: cover; background-repeat: no-repeat; center;`"
     :alt="toolTip(item)"
     :title="toolTip(item)"
   />

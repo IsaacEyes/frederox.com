@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /cosmos/cosmos-banner.png
+heroImage: cosmos-banner.png
 heroAlt: Cosmos Banner
 heroText: Cosmos
 tagline: Explore distant planets
