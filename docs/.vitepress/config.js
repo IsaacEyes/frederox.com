@@ -22,6 +22,7 @@ const cosmos = [
 module.exports = {
   title: "Frederox",
   description: "",
+  base: "/",
 
   themeConfig: {
     repo: "frederoxGit/frederox.com",
