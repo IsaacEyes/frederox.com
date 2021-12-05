@@ -31,6 +31,8 @@ module.exports = {
     editLinks: true,
     editLinkText: "Edit this page on GitHub",
 
+    lastUpdated: "Last Updated",
+
     nav: [
       { text: "Cosmos", link: "/cosmos/" },
       { text: "Biodiversity", link: "/biodiversity/" },
