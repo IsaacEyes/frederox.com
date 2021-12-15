@@ -22,7 +22,7 @@ Biodiversity is an add-on which expands the amount of biomes, and mobs inside of
 
 - Lead Developer
 
-### [IsaacEyes](https://github.com/IsaacEyes)
+### [IsaacEyes](https://www.youtube.com/channel/UCpNBdFzJ86bf2uu83rkLpnw)
 
 - Music & Video Production
 
